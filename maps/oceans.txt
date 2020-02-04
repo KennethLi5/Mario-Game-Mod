@@ -1,0 +1,12 @@
+
+
+BF                                                                                            EB
+AD         I   II                     IIIIIIIIIIIIIIIIIIIIIIIIIIIII                           CA
+AD                                I                               EBBBBBF        m             CA
+AD               v         III                 g                 CAAAAAAAD                    CA
+AD   II               I                                   IIIII  CAAAAAAAAAAD             *   CA
+AD               I       III                           I         CAAAAAAAAAAAAHF    m   IIII  CA       w h
+AD         III                                 II                CAAAAAAAAAAAAAD              CA
+AD                                   IIII                        CAAAAAAAAAAAAAHF             CA
+AD              EBBBBBBBBBBBBBBBF                                CAAAAAAAAAAAAAAAD            CA
+AHBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAHBBBBBBBBBBBGA

@@ -1,0 +1,258 @@
+#Example sprite script file
+####################################
+#The number signs denote comments but are not necessary
+#define the type of player followed by a number
+####################################
+#Each image in a series should be a progressive style
+#to indicate animation.
+####################################
+#each image should appear as though the sprite is looking 
+#to the right
+####################################
+# > denotes the name of the picture
+####################################
+#Total Enemies/Helpers
+33
+####################################
+#Total Sprite Images (including player sprites)
+105
+###################################
+#Player
+>player1.png
+>player2.png
+>player3.png
+####################################
+#Enemies
+# archtype followed by images
+#[ 1
+earthElemental
+>wleft1.PNG
+>wleft2.PNG
+>wshoot1.PNG
+>wshoot2.PNG
+>wshoot3.PNG
+>wshoot4.PNG
+>wshoot5.PNG
+###################################
+###################################
+#\ 2
+cursedKnife
+>knife1.PNG
+>knife1.PNG
+>knife1.PNG
+####################################
+####################################
+#] 3
+gcConsule
+>GCControlSide1.PNG
+>GCControlSide2.PNG
+>GCControlSide3.PNG
+>GCControlSide4.PNG
+>GCControlSide5.PNG
+>GCControlSide6.PNG
+>GCControlSide7.PNG
+>GCControlSide8.PNG
+>GCControlSide9.PNG
+####################################
+####################################
+#^ 4
+gcController
+>gcConsule.PNG
+>gcConsule2.PNG
+>gcConsule.PNG
+####################################
+####################################
+#_ 5
+ghost
+>ghost1.PNG
+>ghost2.PNG
+>ghost1.PNG
+####################################
+####################################
+#`  
+cursedAngryKnife
+>choppingknife1.PNG
+>choppingknife2.PNG
+>choppingknife3.PNG
+###################################
+###################################
+#a 6
+frog
+>frog.PNG
+>frog.PNG
+>frog.PNG
+###################################
+###################################
+#b 7
+stormCloud
+>Storm.PNG
+###################################
+###################################
+#c 
+fireBall
+>fireBall.PNG
+###################################
+###################################
+#d
+lightning
+>lightning.PNG
+###################################
+###################################
+#e
+acorn
+>acorn.PNG
+###################################
+###################################
+#f 8
+fireElemental
+>fleft1.PNG
+>fleft2.PNG
+>fshoot3.PNG
+>fshoot4.PNG
+>fshoot5.PNG
+>fshoot6.PNG
+>fshoot7.PNG
+###################################
+###################################
+#g 9
+iceElemental
+>ileft1.PNG
+>ileft2.PNG
+>ishoot3.PNG
+>ishoot4.PNG
+>ishoot5.PNG
+>ishoot6.PNG
+>ishoot7.PNG
+###################################
+###################################
+#h
+iceBall
+>iceBall.PNG
+###################################
+###################################
+#i 10
+meteor
+>meteor.PNG
+###################################
+###################################
+#j 11
+UFO
+>UFO.PNG
+###################################
+###################################
+#k
+energyBlast
+>lazer.PNG
+###################################
+###################################
+#l 12
+moon
+>moon.PNG
+###################################
+###################################
+#m 13
+jellyFish
+>Jellyfish1.PNG
+>Jellyfish2.PNG
+###################################
+###################################
+#n 14
+bee
+>Bee1.PNG
+>Bee2.PNG
+###################################
+###################################
+#o 15
+wiiConsule
+>IMG_0282.PNG
+>IMG_0281.PNG
+>IMG_0280.PNG
+###################################
+###################################
+#p 16
+flower
+>IMG_0220.PNG
+>IMG_0221.PNG
+>IMG_0222.PNG
+>IMG_0223.PNG
+>IMG_0224.PNG
+>IMG_0225.PNG
+>IMG_0226.PNG
+>IMG_0227.PNG
+>IMG_0228.PNG
+>IMG_0229.PNG
+>IMG_0230.PNG
+###################################
+###################################
+#q
+seed
+>FlowerSeed.PNG
+###################################
+###################################
+#r 17
+bear
+>Bear.PNG
+###################################
+###################################
+#s 18
+wingCat
+>Cat1.PNG
+>CatDive1.PNG
+>CatDive2.PNG
+>CatUp1.PNG
+>CatUp2.PNG
+###################################
+###################################
+#t 19
+wizard
+>wizard.PNG
+>wizard.PNG
+###################################
+###################################
+#u 20
+snake
+>IMG_0254.PNG
+>IMG_0253.PNG
+>IMG_0252.PNG
+###################################
+###################################
+#v 21
+sword
+>FlyingSword.PNG
+###################################
+###################################
+#w
+angrySword
+>Sword1.PNG
+>Sword2.PNG
+>Sword3.PNG
+###################################
+###################################
+#x 22
+iceCreamCat
+>IceCreamCat1.PNG
+>IceCreamCat2.PNG
+>IceCreamCat3.PNG
+###################################
+###################################
+#y
+iceCream
+>IceCream1.PNG
+>IceCream2.PNG
+>IceCream3.PNG
+###################################
+###################################
+#z
+slime
+>IMG_0311.PNG
+>IMG_0310.PNG
+>IMG_0309.PNG
+>IMG_0308.PNG
+>IMG_0307.PNG
+>IMG_0306.PNG
+>IMG_0305.PNG
+###################################
+###################################
+#{
+slimeShot
+>rainbowThrowUp.PNG
